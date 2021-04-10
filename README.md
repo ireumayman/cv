@@ -1,2 +1,2 @@
-# cv
-a practice cv to learn more about HTML and CSS
+# personal site
+a practice site to learn more about HTML and CSS
